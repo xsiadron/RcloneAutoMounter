@@ -19,7 +19,8 @@ Before running the script, you need to configure it through the `config.ini` fil
 
 1. [**Install Python** (3.6+)](https://www.python.org/downloads)
 2. [**Install Rclone** and set up your remotes](https://rclone.org/downloads)
-3. **Install PyInstaller** (for building `.exe`):
+3. [**Install Winfsp**](https://winfsp.dev/rel/)
+4. **Install PyInstaller** (for building `.exe`):
     ```bash
     pip install pyinstaller
     ```
